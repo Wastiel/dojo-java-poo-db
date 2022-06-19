@@ -18,6 +18,7 @@ public class App {
         for (Venda venda : listaVendas)
         {
             imprimeNotaFiscal(venda);
+            imprimeNotaFiscal(venda);
         }
 
 
